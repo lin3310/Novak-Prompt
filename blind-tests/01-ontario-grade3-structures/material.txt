@@ -1,0 +1,60 @@
+測試素材：The Ontario Curriculum, Grades 1–8: Science and Technology (2022) — Grade 3, Strand D: Structures and Mechanisms — Strong and Stable Structures
+出處：Ontario Ministry of Education（PDF：https://assets-us-01.kc-usercontent.com/fbd574c4-da36-0066-a0c5-849ffb2de96e/a6136d61-3120-43f0-94a3-5859e0319382/The%20Ontario%20Curriculum%20Grades%201%E2%80%938%20%E2%80%93%20Science%20and%20Technology%202022.pdf）
+註：© King's Printer for Ontario, 2022，非商業教育用途引用，不受本儲存庫 MIT 授權涵蓋。以下為接在 Novak 提示詞之後輸入模型的課綱原文。
+
+The Ontario Curriculum, Grades 1–8: Science and Technology (2022) — Grade 3
+
+D. Structures and Mechanisms
+Strong and Stable Structures
+In this strand, students integrate learning from Strand A as they investigate
+concepts, develop and apply skills, and make meaningful connections to their lives
+and communities.
+
+Overall expectations
+By the end of Grade 3, students will:
+
+D1. Relating Science and Technology to Our Changing World
+assess the importance of form, function, strength, and stability in structures to society and the
+environment
+
+Specific expectations
+By the end of Grade 3, students will:
+
+D1.1
+assess effects on society and the environment of strong and stable structures
+
+D1.2
+assess the environmental impact of structures built by various animals, including structures built by
+humans
+
+D2. Exploring and Understanding Concepts
+demonstrate an understanding of the concepts of strength and stability as they relate to structures with
+various forms and functions, and of the factors that affect structures’ strength and stability
+
+Specific expectations
+By the end of Grade 3, students will:
+
+D2.1
+describe a structure as a supporting framework that holds a load and has a definite size, shape, and
+function, and identify structures in the natural environment and in the built environment
+
+D2.2
+demonstrate an understanding of the relationship between form and function for various structures
+
+D2.3
+identify the strength of a structure as its ability to support a load and describe ways to increase the
+strength of structures, including ways to increase the strength of different materials used to build them
+
+D2.4
+describe the stability of a structure as its ability to keep its shape, maintain balance, float, and/or stay
+fixed in one spot when a force is applied to the structure, and describe ways to improve a structure’s
+stability
+
+D2.5
+identify properties of materials that need to be considered when building structures
+
+D2.6
+describe ways in which different forces can affect the shape, balance, or position of structures
+
+D2.7
+explain the role of struts and ties in structures under load
